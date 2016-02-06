@@ -1,0 +1,156 @@
+
+body,
+html
+{
+  width:100%;
+  height:100%;
+}
+.topnav{
+  font-size:16px;
+  border-bottom: 1px outset rgba(192, 192, 192, 0.5);
+  background: rgba(192, 192, 192, 0.9);
+  box-shadow: 0px 1px rgba(0, 0, 0, 0.3);
+}
+.nav{
+  background: black;
+}
+
+.intro-header
+{
+  background: url('https://40.media.tumblr.com/1b916597d3e174399cb7adadddb66ede/tumblr_nt5uk4psl31ud7rr3o1_1280.jpg');
+  height:855px;
+  background-size: cover;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align:center;
+  background-position: center;
+  text-emphasis-position: center;
+}
+h2,p.
+{
+  font-family: "Lato";
+  font-size: 8em;
+  color:red;
+
+}
+.intro-message
+{
+  position: relative;
+  padding-top: 20%;
+  padding-bottom: 20%
+}
+.intro-message > h2
+{
+  margin-top: -50px;
+  color: blue;
+  font-size: 5em;
+  font-weight: bold;
+}
+.intro-message> h4
+{
+    color: blue;
+  font-weight:bolder;
+}
+.bg-overlay
+{
+  background:rgba(0,0,0, 0.3);
+  height:855px;
+}
+.intro-divider
+{
+  width:1250px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.intro-divider1
+{
+  width:1050px;
+  border-top: 1px solid gray;
+  border-bottom: 3px solid gray;
+}
+
+.social-buttons{
+  margin-top:40px;
+}
+.header
+{
+  background-color: black;
+}
+.navbar-header > ul{
+  float:right;
+  margin:0;
+  padding: 0;
+}
+.btn {
+  display: inline-block;
+  color: #000;
+  border: 2px outset rgba(0, 0, 0, 0.9);
+  background: #C0C0C0;
+  text-shadow: 1px 1px 1px rgba(0,0,0, 20);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+  letter-spacing: 2px;
+  transition: 0.2s;
+}
+
+.intro-info
+{
+  background: url('https://41.media.tumblr.com/eb2382a5a4c996cfdab27bc0d1eb51ff/tumblr_nt5umxS1FY1ud7rr3o1_1280.jpg');
+  height: 855px;
+  background-size: cover;
+  color:black;
+  font-style: oblique;;
+  font-size: 1em;
+
+}
+.info-h2
+{
+  color: thick green;
+  font-style: oblique;
+  margin-top: 100px;
+
+}
+.image
+{
+  height:150px;
+  width:150px;
+  border-radius: 100%;
+  border-width: 100x;
+  border-color: black;
+  border-style: ridge;
+  margin-top: 100px;
+
+}
+.info-p
+{
+  color: blue;
+  font-weight:700;
+  font-size-adjust: auto;
+  padding: 3px;
+}
+.intro-contact
+{
+  background: url('https://41.media.tumblr.com/ac46aa24b44b5036e9200abb71f810d9/tumblr_nt5vzxV6Us1ud7rr3o1_1280.jpg');
+  background-size: cover;
+  height:855px;
+  background-image: linear-gradient();
+}
+.intro-h1
+{
+  margin-top: 200px;
+  color:blue;
+}
+.contact-ul
+{
+
+
+}
+.footer{
+  width:100%;
+  background:gray;
+  float:left;
+  color:black;
+  height:35%;
+  margin-bottom: 500px;
+  padding: 50px 0;
+
+}
